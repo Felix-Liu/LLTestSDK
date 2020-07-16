@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LLTestSDK"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "LLTestSDK how to use."
 
   # This description is used to generate tags and improve search results.
